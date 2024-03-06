@@ -1,0 +1,8 @@
+.box{
+    display:flex;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    padding:10px
+
+}
